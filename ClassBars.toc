@@ -1,0 +1,16 @@
+## Title: ClassBars
+## Version: 1.0
+## Interface: 80205
+## Author: mokilok, Thanks to Xckbucl and Floraline for the base source from aspect one
+## Notes: Add an hunter traps bar similar
+## Dependencies:
+## OptionalDeps:
+## SavedVariables:
+## SavedVariablesPerCharacter: CLASSBARS_OPTIONS, CLASSBARS_OPTIONS2
+CBLib.xml
+ClassBars.xml
+localization.lua
+ClassBars.lua
+CBLib_localization.lua
+CBLib.lua
+data.lua
